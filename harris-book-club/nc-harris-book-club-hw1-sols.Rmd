@@ -21,6 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <style>
     body { 
       background: linear-gradient(0deg, rgb(254, 255, 245) 0%, rgb(223, 249, 255) 100%);
+      height: 100%;
     }
     .toc-content { 
       height: 100%;
