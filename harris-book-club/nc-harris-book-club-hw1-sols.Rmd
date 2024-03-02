@@ -1,0 +1,43 @@
+---
+title: "HW 1 Solutions"
+author: "Nikola Clinchant"
+date: "March 1st, 2024"
+header-includes:
+- \usepackage{NotesTemplateF}
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+    code_folding: show
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<style>
+    body { 
+      background: linear-gradient(0deg, rgb(254, 255, 245) 0%, rgb(223, 249, 255) 100%);
+    }
+    .toc-content { 
+      height: 100%;
+      background-color: white; 
+    }
+</style>
+
+Here are sketches for the solutions to each of the problems from HW 1. Occasionally simpler details are left to be filled in by the reader, but the solutions try to capture the essence of the solutions. Where possible, pictures are included to help aid intuition.
+
+# Problem 1
+
+# Problem 2
+
+# Problem 3
+
+# Problem 4
+
+# Problem 5
+
+# Problem 6
